@@ -1,0 +1,2 @@
+# Visualisasi Pick Rate Agen Valorant dari Champions 2024
+Kode ini bertujuan untuk memvisualisasikan data Pick Rate agen di turnamen Valorant Champions 2024 menggunakan grafik batang (barplot). Data diambil dari file CSV yang berisi informasi statistik turnamen. Grafik ini akan membantu memahami agen mana yang paling sering dipilih pemain pada semua tahapan dan semua peta dalam turnamen tersebut.Data diambil dari situs Kaggle ( https://www.kaggle.com/datasets/ryanluong1/valorant-champion-tour-2021-2023-data )
